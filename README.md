@@ -1,17 +1,16 @@
-Used Assets
+# Used Assets
 
-Forest Nature Fantasy Tileset by The Flavare (itch.io)
-https://theflavare.itch.io/forest-nature-fantasy-tileset
+-Forest Pixel Art Pack by Edermunizz
+-https://edermunizz.itch.io/free-pixel-art-forest
 
-Pixel Coins by TotusLotus (itch.io)
-https://totuslotus.itch.io/pixel-coins
+-Skeleton Pack by Jesse M
+-https://jesse-m.itch.io/skeleton-pack
 
-Pixel Art Skeletons Pack by MonoPixelArt (itch.io)
-https://monopixelart.itch.io/skeletons-pack
+-Pixel Top-Down Character by Immunitys
+-https://immunitys.itch.io/pixel-top-down-character
 
-Hero Knight – Pixel Art by Sven Thole (Unity Asset Store)
-https://assetstore.unity.com/packages/2d/characters/hero-knight-pixel-art-165188
+-Warrior Animation Set by Clembod
+-https://clembod.itch.io/warrior-free-animation-set
 
-Watched Video
-
-https://www.youtube.com/watch?v=ZEtKg9AyEJc&t=20375s
+# Watched Video
+-https://www.youtube.com/watch?v=ZEtKg9AyEJc&t=20375s

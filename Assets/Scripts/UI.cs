@@ -11,6 +11,7 @@ public class UI : MonoBehaviour
     [SerializeField] private TextMeshProUGUI killCountText;
    
     private int killCount;
+    private float playTime;
     
     private void Awake()
     {
@@ -20,7 +21,8 @@ public class UI : MonoBehaviour
 
     private void Update()
     {
-        timerText.text = Time.time.ToString("F2") + "s";
+        playTime += Time.deltaTime;
+        timerText.text = playTime.ToString("F2") + "s";
     }
 
     public void EnableGameOverUI()
